@@ -1,0 +1,136 @@
+Title:
+    RPG Sound Pack
+
+Author:
+    Ben
+
+URL:
+    http://opengameart.org/content/rpg-sound-pack
+
+License(s):
+    * CC0 ( https://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * rpg_sound_pack.zip
+
+
+
+Title:
+    50 RPG sound effects
+
+Author:
+    Kenney Vleugels
+
+URL:
+    http://opengameart.org/content/50-rpg-sound-effects
+
+License(s):
+    * CC0 ( https://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * RPGsounds_Kenney.zip
+
+
+
+Title:
+    Walking On Gravel
+
+Author:
+    Caroline Ford
+
+URL:
+    http://soundbible.com/1432-Walking-On-Gravel.html
+
+License(s):
+    * CC0 ( https://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * Walking On Gravel-SoundBible.com-2023303198.wav
+
+
+Title:
+    Fireball 1
+
+Author:
+    Partners In Rhyme
+
+URL:
+    https://www.freesoundeffects.com/free-track/fireball-1-466500/
+
+License(s):
+    * License Agreement ( https://www.freesoundeffects.com/licence.php )
+
+File(s):
+    * Fireball+1.wav
+
+
+
+Title:
+    Spell 4 (fire)
+
+Author:
+    Bart K.
+
+URL:
+    http://opengameart.org/content/spell-4-fire
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( https://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+File(s):
+    * foom_0.wav
+
+
+
+Title:
+    9 explosion sounds
+
+Author:
+    Unnamed
+
+URL:
+    http://opengameart.org/content/9-explosion-sounds
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+
+File(s):
+    * explosions.zip
+
+
+
+Title:
+    Fantasy Sound Effects Library
+
+Author:
+    Morten Barfod Søegaard
+
+URL:
+    http://opengameart.org/content/fantasy-sound-effects-library
+
+License(s):
+    * CC-BY 3.0 ( https://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Fantasy Sound Library.zip
+
+
+
+Title:
+    Torch Fire Spell
+
+Author:
+    Joseph
+
+URL:
+    http://opengameart.org/content/torch-fire-spell
+
+License(s):
+    * CC-BY 3.0 ( https://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Waving Torch.wav

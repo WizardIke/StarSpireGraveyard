@@ -1,0 +1,5 @@
+bFullScreen=false;
+sLastSavePath=;
+bRelativeMovement=false;
+bButtonSoundFX=false;
+bMusicOn=false;
